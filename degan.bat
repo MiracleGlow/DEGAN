@@ -1,2 +1,2 @@
 @echo off
-python C:\app\DEGAN\degan.py %*
+python C:\mg-dev\app\degan\degan.py %*
